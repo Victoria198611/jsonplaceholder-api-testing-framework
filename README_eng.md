@@ -3,7 +3,7 @@ JSONPlaceholder API Testing Framework
 General Description:
 This project represents an automated testing framework for the JSONPlaceholder API, built in Java using RestAssured, TestNG, and Allure Reports. The framework covers both positive and negative scenarios, validates status codes and payloads, and generates Allure reports with Behaviors, Epic, Feature, and Story.
 
-🛠️ Technologies Used:
+ Technologies Used:
 •	Java 17
 •	Maven
 •	RestAssured
