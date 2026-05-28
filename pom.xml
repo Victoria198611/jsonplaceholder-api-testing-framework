@@ -73,7 +73,7 @@
 
     <build>
 
-        < COPIEREA CORECTĂ A RESURSELOR DE TEST>
+        <!-- CORRECT COPYING OF TEST RESOURCES -->
         <testResources>
             <testResource>
                 <directory>src/test/resources</directory>
