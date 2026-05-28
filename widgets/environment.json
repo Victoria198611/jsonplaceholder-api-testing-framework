@@ -1,0 +1,1 @@
+[{"values":["QA"],"name":"environment"},{"values":["https://jsonplaceholder.typicode.com"],"name":"base.url"},{"values":["Victoria"],"name":"tester"},{"values":["RestAssured + TestNG + Allure"],"name":"framework"},{"values":["17"],"name":"java.version"},{"values":["2.27.0"],"name":"allure.version"}]
